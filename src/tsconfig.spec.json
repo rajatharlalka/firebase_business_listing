@@ -1,4 +1,4 @@
-{
+  {
   "extends": "../tsconfig.json",
   "compilerOptions": {
     "outDir": "../out-tsc/spec",
@@ -11,7 +11,8 @@
     ]
   },
   "files": [
-    "test.ts"
+    "test.ts",
+    "../node_modules/firebase/firebase.d.ts"
   ],
   "include": [
     "**/*.spec.ts",

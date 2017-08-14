@@ -1,6 +1,6 @@
 # Businesscontacts
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
+This project was generated with [Angular CLI]. It is a business listing or a business contacts app using Firebase, a remote NoSQL database
 
 ## Development server
 
